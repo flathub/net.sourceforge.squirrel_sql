@@ -56,9 +56,9 @@
       ],
       "sources": [{
         "type": "archive",
-        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.1.0-plainzip/squirrelsql-4.1.0-standard.zip",
+        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.2.0-plainzip/squirrelsql-4.2.0-standard.zip",
         "dest-filename": "squirrelsql-standard.zip",
-        "sha256": "6622f300bc159a51881f74e97efe6fa8388dc48e713a3657b1313305d466275a"
+        "sha256": "a4d72621ecb9d27599821a175469e6d041731a8a81a40689da5858bd5ce35ada"
       }]
     },
     {
