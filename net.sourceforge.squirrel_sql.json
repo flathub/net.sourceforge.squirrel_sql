@@ -1,8 +1,8 @@
 {
   "app-id" : "net.sourceforge.squirrel_sql",
-  "runtime" : "org.gnome.Platform",
-  "runtime-version" : "3.38",
-  "sdk" : "org.gnome.Sdk",
+  "runtime" : "org.freedesktop.Sdk",
+  "runtime-version" : "20.08",
+  "sdk" : "org.freedesktop.Sdk",
   "sdk-extensions" : ["org.freedesktop.Sdk.Extension.openjdk11"],
   "command": "squirrel-sql",
   "finish-args" : [
