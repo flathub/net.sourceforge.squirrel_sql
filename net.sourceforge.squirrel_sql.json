@@ -36,13 +36,13 @@
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.19/postgresql-42.2.19.jar",
-          "sha256": "232747fa0924d88a26dfa42b8128b6fa1140802d804125891596e8ca5f291322"
+          "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.20/postgresql-42.2.20.jar",
+          "sha256": "708b2938aea81f32b8b35440da233828284a100e6f2212a7ab1eeaf4b3a6514e"
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar",
-          "sha256": "ff7d5b402afd39c12787471505a33a304103b238ec1b7a44e8936d3329da7535"
+          "url": "https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.24/mysql-connector-java-8.0.24.jar",
+          "sha256": "99b52da63d9d31d5494a302f3dbb554b730cc20db1fb09eda64ab0e27c130aab"
         }
       ]
     },
