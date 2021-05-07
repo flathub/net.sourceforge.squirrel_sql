@@ -1,8 +1,8 @@
 {
   "app-id" : "net.sourceforge.squirrel_sql",
-  "runtime" : "org.gnome.Platform",
-  "runtime-version" : "3.38",
-  "sdk" : "org.gnome.Sdk",
+  "runtime" : "org.freedesktop.Sdk",
+  "runtime-version" : "20.08",
+  "sdk" : "org.freedesktop.Sdk",
   "sdk-extensions" : ["org.freedesktop.Sdk.Extension.openjdk11"],
   "command": "squirrel-sql",
   "finish-args" : [
@@ -36,13 +36,13 @@
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.19/postgresql-42.2.19.jar",
-          "sha256": "232747fa0924d88a26dfa42b8128b6fa1140802d804125891596e8ca5f291322"
+          "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.2.20/postgresql-42.2.20.jar",
+          "sha256": "708b2938aea81f32b8b35440da233828284a100e6f2212a7ab1eeaf4b3a6514e"
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.23/mysql-connector-java-8.0.23.jar",
-          "sha256": "ff7d5b402afd39c12787471505a33a304103b238ec1b7a44e8936d3329da7535"
+          "url": "https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.24/mysql-connector-java-8.0.24.jar",
+          "sha256": "99b52da63d9d31d5494a302f3dbb554b730cc20db1fb09eda64ab0e27c130aab"
         }
       ]
     },
@@ -56,9 +56,9 @@
       ],
       "sources": [{
         "type": "archive",
-        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.1.0-plainzip/squirrelsql-4.1.0-standard.zip",
+        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.2.0-plainzip/squirrelsql-4.2.0-standard.zip",
         "dest-filename": "squirrelsql-standard.zip",
-        "sha256": "6622f300bc159a51881f74e97efe6fa8388dc48e713a3657b1313305d466275a"
+        "sha256": "a4d72621ecb9d27599821a175469e6d041731a8a81a40689da5858bd5ce35ada"
       }]
     },
     {
