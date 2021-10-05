@@ -3,7 +3,7 @@
   <id>net.sourceforge.squirrel_sql</id>
   <launchable type="desktop-id">net.sourceforge.squirrel_sql.desktop</launchable>
   <name>SquirreL SQL Client</name>
-  <summary>SQuirreL SQL Client is a graphical Java program (GUI) that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc. The Flatpak version currently supports MySQL, PostgreSQL, MariaDB, and SQLite.</summary>
+  <summary>SQuirreL SQL Client is a GUI that allows you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc. Supports MySQL, PostgreSQL, MariaDB, and SQLite.</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <screenshots>
     <screenshot type="default">
