@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /app/jre/bin/java -cp /app/squirrelsql/squirrel-sql.jar:/app/squirrelsql/lib/*:/app/jdbc-drivers/* -splash:"/app/squirrelsql/icons/splash.jpg" net.sourceforge.squirrel_sql.client.Main --user-settings-dir $XDG_CONFIG_HOME
+exec /app/jre/bin/java -cp /app/squirrelsql/squirrel-sql.jar:/app/squirrelsql/lib/*:/app/jdbc-drivers/* -splash:"/app/squirrelsql/icons/splash.jpg" net.sourceforge.squirrel_sql.client.Main --user-settings-dir $XDG_CONFIG_HOME "$@"

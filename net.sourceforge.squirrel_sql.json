@@ -26,6 +26,56 @@
       "sources": [
         {
           "type": "file",
+          "url": "https://repo1.maven.org/maven2/org/apache/derby/derbyclient/10.15.2.0/derbyclient-10.15.2.0.jar",
+          "sha256": "f70d0bffda12dbffc3a348b82828ea9ccb329ca02d4c2cd86399362fcbc0c1f1"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/org/apache/derby/derbyshared/10.15.2.0/derbyshared-10.15.2.0.jar",
+          "sha256": "55365ab97e698080c6ccec65dbf7b8c63e4b4b77ad08f794d11458b1f2ea272c"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/org/apache/derby/derbytools/10.15.2.0/derbytools-10.15.2.0.jar",
+          "sha256": "45d6dc34af9790f7f8fafb9b15d8525f3b429950fca4b4051e7e4f81f9170cd9"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar",
+          "sha256": "3afe424625f4caea05ff2f9022be2d98634be4d69dee3529697dab6d9fe1142f"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/com/ingres/jdbc/iijdbc/10.2-4.1.10/iijdbc-10.2-4.1.10.jar",
+          "sha256": "97b874f9a88309462b7b92f07988f7aa00a16a92c651f0725cf81efce077c9ff"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/com/h2database/h2/2.1.212/h2-2.1.212.jar",
+          "sha256": "db9284c6ff9bf3bc0087851edbd34563f1180df3ae87c67c5fe2203c0e67a536"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/org/hsqldb/hsqldb/2.6.1/hsqldb-2.6.1.jar",
+          "sha256": "e3f9e9d472d985b95ee5c10ed40d03496c3a26b950590ae0a49ce608626dcbe8"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/net/sourceforge/jtds/jtds/1.3.1/jtds-1.3.1.jar",
+          "sha256": "aac05ebf5504c91b29420129b02dd878a86c52f8fa6eccf9235e0bfd7a60bef1"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/com/mckoi/mckoisqldb/1.0.5/mckoisqldb-1.0.5.jar",
+          "sha256": "2364501975815fffcb4b20c62b31c1e8c90bad72f9a717e3a76ffe34cd588d29"
+        },
+        {
+          "type": "file",
+          "url": "https://repo1.maven.org/maven2/com/microsoft/sqlserver/mssql-jdbc/11.1.0.jre17-preview/mssql-jdbc-11.1.0.jre17-preview.jar",
+          "sha256": "b5a4df18b923db77372822d7b6a4380e2fef7d0edfcfaf1261dc8d2c15aef82b"
+        },
+        {
+          "type": "file",
           "url": "https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/2.7.4/mariadb-java-client-2.7.4.jar",
           "sha256": "f06577b19e89b33028b96cd4f031248e761de7ebc712f4ef535e268df76edb2a"
         },
@@ -56,9 +106,9 @@
       ],
       "sources": [{
         "type": "archive",
-        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.3.0-plainzip/squirrelsql-4.3.0-standard.zip",
-        "dest-filename": "squirrelsql-standard.zip",
-        "sha256": "5e1e892df934c43a840498841b758128112a69dfced03f1a789939b39c3c3d32"
+        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.4.0-plainzip/squirrelsql-4.4.0-optional.zip",
+        "dest-filename": "squirrelsql-optional.zip",
+        "sha256": "259a338c61a86b16662ff004650866dcb6912a67a12e5402b8a83f34db81ced6"
       }]
     },
     {
