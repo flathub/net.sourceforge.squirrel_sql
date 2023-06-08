@@ -56,8 +56,8 @@
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/hsqldb/hsqldb/2.7.1/hsqldb-2.7.1.jar",
-          "sha256": "bca5532a4c58babf9fcebf20d03f086f5ba24b076c3aaf8838a16512235e53ca"
+          "url": "https://repo1.maven.org/maven2/org/hsqldb/hsqldb/2.7.2/hsqldb-2.7.2.jar",
+          "sha256": "aa455133e664f6a7e6f30cd0cd4f8ad83dfbd94eb717c438548e446784614a92"
         },
         {
           "type": "file",
@@ -71,28 +71,28 @@
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/com/microsoft/sqlserver/mssql-jdbc/11.2.1.jre17/mssql-jdbc-11.2.1.jre17.jar",
-          "sha256": "98a88294f89813d96ca9528ba284970360b2fe8813a5b5d666874fe018c359b5"
+          "url": "https://repo1.maven.org/maven2/com/microsoft/sqlserver/mssql-jdbc/11.2.3.jre17/mssql-jdbc-11.2.3.jre17.jar",
+          "sha256": "1a3f5e073d57c91dbe22ba05f4f334f4e7438161b9025e41def5a8ae50e44918"
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.1.0/mariadb-java-client-3.1.0.jar",
-          "sha256": "bf78c92310a848b348f8478667f68fd17f8b80963c67474e8199f5abc8acbd50"
+          "url": "https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.1.4/mariadb-java-client-3.1.4.jar",
+          "sha256": "eb88b5d727d82e25117e2b6fabcec1daf734633b0a576456c73215884c189ad4"
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.40.0.0/sqlite-jdbc-3.40.0.0.jar",
-          "sha256": "e3a1b909787b33bb37e04f252f37e4ab47a489e1c1d45a809a0982c379445c10"
+          "url": "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.42.0.0/sqlite-jdbc-3.42.0.0.jar",
+          "sha256": "53174d76087bb73cc29db9c02766fb921fd7fc652f7952f3609e0018e3dd5ded"
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.5.1/postgresql-42.5.1.jar",
-          "sha256": "89e8bffa8b37b9487946012c690cf04f3103953051c1c193d88ee36b68d365ae"
+          "url": "https://repo1.maven.org/maven2/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar",
+          "sha256": "b817c67a40c94249fd59d4e686e3327ed0d3d3fae426b20da0f1e75652cfc461"
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar",
-          "sha256": "5249e3dc6d6531b37790e3f61845b96db5e41e891d3d8edb0e2e3a1b53ca2f4f"
+          "url": "https://repo1.maven.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar",
+          "sha256": "e2a3b2fc726a1ac64e998585db86b30fa8bf3f706195b78bb77c5f99bf877bd9"
         }
       ]
     },
@@ -106,9 +106,9 @@
       ],
       "sources": [{
         "type": "archive",
-        "url": "https://downloads.sourceforge.net/project/squirrel-sql/1-stable/4.5.1-plainzip/squirrelsql-4.5.1-optional.zip",
+        "url": "https://github.com/squirrel-sql-client/squirrel-sql-stable-releases/releases/download/4.6.0-a_plainzip/squirrelsql-4.6.0-optional.zip",
         "dest-filename": "squirrelsql-optional.zip",
-        "sha256": "5cf528c42ba421b99c4132dd036667e8e890d721cf1b48cd9652a21e6c38cd24"
+        "sha256": "f9a7587ed61b2c2570663eaaca4b372a0e53d47a21f1d3ee32bf2cdad887b069"
       }]
     },
     {

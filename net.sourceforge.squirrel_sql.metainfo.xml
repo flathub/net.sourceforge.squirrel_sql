@@ -8,46 +8,47 @@
   <screenshots>
     <screenshot type="default">
       <caption>The SQuirreL desktop in Ocean Theme</caption>
-      <image>http://www.squirrelsql.org/screenshots/1_desktop.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/1_desktop.png</image>
     </screenshot>
     <screenshot>
       <caption>Configure or add a driver</caption>
-      <image>http://www.squirrelsql.org/screenshots/2_dirvers.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/2_dirvers.png</image>
     </screenshot>
     <screenshot>
       <caption>Create an Alias</caption>
-      <image>http://www.squirrelsql.org/screenshots/3_aliases.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/3_aliases.png</image>
     </screenshot>
     <screenshot>
       <caption>Object Tree of Session window</caption>
-      <image>http://www.squirrelsql.org/screenshots/4_objecttree.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/4_objecttree.png</image>
     </screenshot>
     <screenshot>
       <caption>SQL Editor with code completion popup open</caption>
-      <image>http://www.squirrelsql.org/screenshots/5_codecompletion.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/5_codecompletion.png</image>
     </screenshot>
     <screenshot>
       <caption>SQL Editor with tools popup menu</caption>
-      <image>http://www.squirrelsql.org/screenshots/10_toolspopup.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/10_toolspopup.png</image>
     </screenshot>
     <screenshot>
       <caption>SQL Editor with bookmark selection popup</caption>
-      <image>http://www.squirrelsql.org/screenshots/12_bookmarks.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/12_bookmarks.png</image>
     </screenshot>
     <screenshot>
       <caption>Editing of SQL results</caption>
-      <image>http://www.squirrelsql.org/screenshots/15_edit_result.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/15_edit_result.png</image>
     </screenshot>
     <screenshot>
       <caption>Graph: Charts of tables and their relations / Query builder</caption>
-      <image>http://www.squirrelsql.org/screenshots/7_graph.png</image>
+      <image>https://squirrel-sql.sourceforge.io/screenshots/7_graph.png</image>
     </screenshot>
   </screenshots>
   <project_license>LGPL-2.1-or-later</project_license>
-  <url type="homepage">http://www.squirrelsql.org/</url>
+  <url type="homepage">https://squirrel-sql.sourceforge.io/</url>
   <description><p>SQuirreL SQL Client is a graphical Java program (GUI) that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc. The Flatpak version currently includes drivers for MySQL, PostgreSQL, MariaDB, Actian Avalanche, Apache Derby, H2, HSQLDB, Microsoft MSSQL, Sybase, Mckoi, and SQLite.</p></description>
   <content_rating type="oars-1.0" />
   <releases>
+    <release date="2023-06-04" version="4.6.0"/>
     <release date="2022-11-13" version="4.5.1"/>
     <release date="2022-10-10" version="4.5.0"/>
     <release date="2022-04-06" version="4.4.0"/>
