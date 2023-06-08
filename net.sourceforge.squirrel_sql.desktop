@@ -3,3 +3,4 @@ Name=SQuirreL SQL
 Exec=squirrel-sql
 Type=Application
 Icon=net.sourceforge.squirrel_sql
+Categories=Development;Utility;Database;
