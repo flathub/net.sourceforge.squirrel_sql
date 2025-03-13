@@ -1,7 +1,7 @@
 {
   "app-id" : "net.sourceforge.squirrel_sql",
   "runtime" : "org.freedesktop.Platform",
-  "runtime-version" : "22.08",
+  "runtime-version" : "24.08",
   "sdk" : "org.freedesktop.Sdk",
   "sdk-extensions" : ["org.freedesktop.Sdk.Extension.openjdk17"],
   "command": "squirrel-sql",
@@ -46,8 +46,8 @@
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/com/ingres/jdbc/iijdbc/10.2-4.1.10/iijdbc-10.2-4.1.10.jar",
-          "sha256": "97b874f9a88309462b7b92f07988f7aa00a16a92c651f0725cf81efce077c9ff"
+          "url": "https://repo1.maven.org/maven2/com/ingres/jdbc/iijdbc/12.0-4.4.4/iijdbc-12.0-4.4.4.jar",
+          "sha256": "e32a3634e25cf4c9d708f181303e175b03be1b5b4f2d4f40adc13503e7b849d3"
         },
         {
           "type": "file",
@@ -101,14 +101,13 @@
       "buildsystem": "simple",
       "build-commands": [
         "mkdir -p /app/squirrelsql",
-        "cp -r * /app/squirrelsql",
-        "install -Dm644 icons/acorn.png /app/share/icons/hicolor/512x512/apps/net.sourceforge.squirrel_sql.png"
+        "cp -r * /app/squirrelsql"
       ],
       "sources": [{
         "type": "archive",
-        "url": "https://github.com/squirrel-sql-client/squirrel-sql-stable-releases/releases/download/4.6.0-a_plainzip/squirrelsql-4.6.0-optional.zip",
+        "url": "https://github.com/squirrel-sql-client/squirrel-sql-stable-releases/releases/download/4.8.0-a_plainzip/squirrelsql-4.8.0-optional.zip",
         "dest-filename": "squirrelsql-optional.zip",
-        "sha256": "f9a7587ed61b2c2570663eaaca4b372a0e53d47a21f1d3ee32bf2cdad887b069"
+        "sha256": "b707867f3b8b207c6317c8ce2a05d62c46f010a5f11d57398d99f5a1885bbde0"
       }]
     },
     {
@@ -117,7 +116,8 @@
       "build-commands": [
         "install -Dm755 squirrel-sql /app/bin/squirrel-sql",
         "install -Dm644 net.sourceforge.squirrel_sql.metainfo.xml /app/share/metainfo/net.sourceforge.squirrel_sql.metainfo.xml",
-        "install -Dm644 net.sourceforge.squirrel_sql.desktop /app/share/applications/net.sourceforge.squirrel_sql.desktop"
+        "install -Dm644 net.sourceforge.squirrel_sql.desktop /app/share/applications/net.sourceforge.squirrel_sql.desktop",
+        "install -Dm644 acorn.png /app/share/icons/hicolor/512x512/apps/net.sourceforge.squirrel_sql.png"
       ],
       "sources": [
         {
@@ -131,6 +131,10 @@
         {
           "type": "file",
           "path": "net.sourceforge.squirrel_sql.desktop"
+        },
+        {
+          "type": "file",
+          "path": "acorn.png"
         }
       ]
     }

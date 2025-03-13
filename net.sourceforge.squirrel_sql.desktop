@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=SQuirreL SQL
+Comment=SQL client for any JDBC compliant database
 Exec=squirrel-sql
 Type=Application
 Icon=net.sourceforge.squirrel_sql
