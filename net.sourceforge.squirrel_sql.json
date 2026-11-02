@@ -81,8 +81,8 @@
         },
         {
           "type": "file",
-          "url": "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.42.0.0/sqlite-jdbc-3.42.0.0.jar",
-          "sha256": "53174d76087bb73cc29db9c02766fb921fd7fc652f7952f3609e0018e3dd5ded"
+          "url": "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.54.1.0/sqlite-jdbc-3.54.1.0.jar",
+          "sha256": "f8dce420a6016278497f4f0560f65602b9db858de141b541cf91a4644ebe4639"
         },
         {
           "type": "file",
@@ -105,9 +105,9 @@
       ],
       "sources": [{
         "type": "archive",
-        "url": "https://github.com/squirrel-sql-client/squirrel-sql-stable-releases/releases/download/4.8.0-a_plainzip/squirrelsql-4.8.0-optional.zip",
+        "url": "https://github.com/squirrel-sql-client/squirrel-sql-stable-releases/releases/download/5.1.0-a_plainzip/squirrelsql-5.1.0-optional.zip",
         "dest-filename": "squirrelsql-optional.zip",
-        "sha256": "b707867f3b8b207c6317c8ce2a05d62c46f010a5f11d57398d99f5a1885bbde0"
+        "sha256": "19b1c404f7b43192dc0f222e172b46d8e3e7775db13e28a1c011f4cf636185d6"
       }]
     },
     {
